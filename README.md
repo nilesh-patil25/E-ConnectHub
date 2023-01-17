@@ -4,6 +4,10 @@
 The Employee Management System repository contains an ASP.​NET Core CRUD operation project.
 The Project runs on ASP.NET Core 6.0.
 
+## Architecture
+
+![E-ConnectHb](./EconnectA.png)
+
 
 ## Documentation
 
